@@ -1,4 +1,4 @@
-[![Flatris](flatris.png)](https://flatris.space/)
+[![Flatris](flatris.png)](https://fs1.inspider.ru/market/2019/10/11/236bc921717c65851cdc0c9fc0f4b7f2.jpg)
 
 [![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris)
 
