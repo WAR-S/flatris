@@ -1,4 +1,4 @@
-![Image alt](https://fs1.inspider.ru/market/2019/10/11/236bc921717c65851cdc0c9fc0f4b7f2.jpg)
+![Image alt](https://34.img.avito.st/image/1/fxHDZra_0_i1wyH-sUcPG07F1fJ9BdcKccXR_nvD0fh3gw)
 
 [![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris)
 
