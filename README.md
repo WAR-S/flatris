@@ -15,7 +15,7 @@ Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
 
 ```
 yarn install
-yarn test
+yarn test # if 127 error code remove this string in u docker config file.
 yarn build
 yarn start
 ```
