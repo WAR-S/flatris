@@ -1,5 +1,3 @@
-![Image alt](https://34.img.avito.st/image/1/fxHDZra_0_i1wyH-sUcPG07F1fJ9BdcKccXR_nvD0fh3gw)
-
 [![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris)
 
 > **Work in progress:** Flatris has been recently redesigned from the ground up and turned into a multiplayer game with both UI and server components. This has been an interesting journey and I plan to document the architecture in depth. **[Stay tuned](https://twitter.com/skidding)**.
@@ -23,3 +21,4 @@ yarn start
 ```
 
 Go to http://localhost:3000
+TEST project: http://134.209.67.5:3000 
